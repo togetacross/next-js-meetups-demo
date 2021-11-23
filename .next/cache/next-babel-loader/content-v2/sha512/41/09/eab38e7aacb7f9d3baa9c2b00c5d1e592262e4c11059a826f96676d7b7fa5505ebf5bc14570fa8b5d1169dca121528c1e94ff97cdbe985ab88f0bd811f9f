@@ -1,0 +1,1 @@
+{"ast":null,"code":"function HomePage() {\n  return;\n}\n\nexport default HomePage;","map":{"version":3,"sources":["F:/Udemy/next-js-big-app/pages/index.js"],"names":["HomePage"],"mappings":"AAAA,SAASA,QAAT,GAAoB;AAChB;AACH;;AAED,eAAeA,QAAf","sourcesContent":["function HomePage() {\r\n    return\r\n}\r\n\r\nexport default HomePage;"]},"metadata":{},"sourceType":"module"}
