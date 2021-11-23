@@ -36,7 +36,7 @@ export async function getStaticPaths() {
     return {
         //false all...
         // true melyiket tegye bele.. generálni, legtobbet latogatott stb...
-        fallback: false,
+        fallback: true,
         paths: meetups.map((meetup) => ({
             params: {
                 meetupId: meetup._id.toString()
